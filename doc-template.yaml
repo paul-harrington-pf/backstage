@@ -2,8 +2,8 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
   name: docs-template-xpo
-  title: Documentation Template
-  description: Create a new standalone documentation project
+  title: XPO Documentation Template
+  description: Create an XPO Documentation Project
   tags:
     - recommended
     - techdocs
